@@ -1,0 +1,6 @@
+{
+  "name": "PyTorch Image Classification",
+  "description": "Cancer Classification using PyTorch",
+  "repository": "https://github.com/chinmaydas96/pytorch-flask-api-heroku",
+  "keywords": ["python", "flask", "pytorch", "bootstrap"]
+}

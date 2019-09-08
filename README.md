@@ -1,7 +1,7 @@
 # Histopathologic Cancer Classication WebApp
 
 
-Check the demo [here](https://pytorch-imagenet.herokuapp.com/).
+Check the demo [here](https://cancer-classification.herokuapp.com/).
 
 If you'd like to check a super simple API server, then check [this repo](https://github.com/avinassh/pytorch-flask-api).
 

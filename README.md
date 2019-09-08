@@ -1,4 +1,4 @@
-# PyTorch Flask API
+# Histopathologic Cancer Classication WebApp
 
 
 Check the demo [here](https://pytorch-imagenet.herokuapp.com/).
@@ -22,7 +22,7 @@ Run the server:
 
 ## Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/avinassh/pytorch-flask-api-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chinmaydas96/Cancer_Classification_Webapp)
 
 
 ## License

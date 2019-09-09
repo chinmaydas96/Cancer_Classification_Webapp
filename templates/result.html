@@ -24,7 +24,10 @@
     <form class="form-signin" method=post enctype=multipart/form-data>
         <img class="mb-4" src="/static/cancer.png" alt="" width="72">
         <h1 class="h3 mb-3 font-weight-normal">Prediction</h1>
-        <img src="/static/showimage.jpg" height="200" width="200"/>
+        <div>
+        <img src="{{ image }}" height="200" width="200" />
+	<button type='button' style="position: absolute; right: 375px; top: 275px;" onclick="window.location.href='{{ url_for( 'upload_file' ) }}';">Try Another Image</button
+        </div>
         <br>
         <br>
         <h5 class="h5 mb-3 font-weight-normal">Detected Image: {{ class_name }}</h5>

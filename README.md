@@ -26,7 +26,7 @@ Run the server:
 ### Aptfile install 
 In Heroku cli , run this command
 
-`heroku plugins:install buildpacks:add --index 1 heroku-community/apt -a cancer-classification`
+`heroku buildpacks:add --index 1 heroku-community/apt --app cancer-classifications`
 
 ## License
 
